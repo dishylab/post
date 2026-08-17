@@ -94,9 +94,9 @@ port
 
 <tg-slideshow>
 
-![](vpn_share/photo_2026-08-17_21-31-10.jpg)
-![](vpn_share/photo_2026-08-17_21-31-18.jpg)
-![](vpn_share/photo_2026-08-17_21-31-22.-edited.jpg)
+![](https://github.com/dishylab/post/raw/master/telegram/Channel/vpn_share/photo_2026-08-17_21-31-10.jpg)
+![](https://github.com/dishylab/post/raw/master/telegram/Channel/vpn_share/photo_2026-08-17_21-31-18.jpg)
+![](https://github.com/dishylab/post/raw/master/telegram/Channel/vpn_share/photo_2026-08-17_21-31-22.-edited.jpg)
 
 </tg-slideshow>
 
