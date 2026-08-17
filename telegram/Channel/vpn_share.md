@@ -94,8 +94,9 @@ port
 
 <tg-slideshow>
 
-![](https://telegram.org/example/photo.jpg)
-![](https://telegram.org/example/video.mp4)
+![](vpn_share/photo_2026-08-17_21-31-10.jpg)
+![](vpn_share/photo_2026-08-17_21-31-18.jpg)
+![](vpn_share/photo_2026-08-17_21-31-22.-edited.jpg)
 
 </tg-slideshow>
 
