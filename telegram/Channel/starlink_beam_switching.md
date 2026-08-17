@@ -3,7 +3,7 @@
 امروز یکی از جذاب ترین ویژگی های استارلینک رو بررسی میکنیم. چند ماهی است عبارت Starlink Beam Switching در سایت اصلی 
 قرار دارد، ویدیوی که میبیند از سایت اصلی برداشته شده است اگر میخواید بدونید beam switching چیه با ما همراه باشید
 
-![](https://github.com/dishylab/post/blob/master/telegram/Channel/starlink_beam_switching/starlink_beam_switching.mp4)
+![](https://raw.githubusercontent.com/dishylab/post/refs/heads/master/telegram/Channel/starlink_beam_switching/starlink_beam_switching.mp4)
 
 حتا داخل آمریکا هم افرادی که دیش رو در حیاط یا باغ نصب کردن، به دلیل مانع، قطع و وصل زیادی تجربه میکردن و در 
 نهایت مهندسین شرکت اسپیس ایکس  این حرکت نوآورانه رو پیاده کردن. شرکت اسپیس ایکس قبلا beamforming در تجربه خودشون 
