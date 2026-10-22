@@ -17,4 +17,6 @@
 
 به تغییر مقدار ping توجه کنید، همچنین با وجود قطع شدن اینترنت star-1، کاربر متوجه قطعی به 192.168.100.1 نمیشه و فقط مقدار ping از 2ms به 60ms میرسه و بالعکس
 
-![spf0-edited_telegram.mp4](https://github.com/dishylab/spf/blob/master/test/spf0-edited_telegram.mp4)
+
+
+![spf0-edited_telegram.mp4](https://raw.githubusercontent.com/dishylab/spf/refs/heads/master/test/spf0-edited_telegram.mp4)
