@@ -19,4 +19,5 @@
 
 
 
-![spf0-edited_telegram.mp4](https://raw.githubusercontent.com/dishylab/spf/refs/heads/master/test/spf0-edited_telegram.mp4)
+
+![](https://raw.githubusercontent.com/dishylab/post/refs/heads/master/telegram/Channel/starlink_on_power_failure/spf0-edited_telegram.mp4)
